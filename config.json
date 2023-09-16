@@ -1,0 +1,15 @@
+{
+    "PG_USER": "postgres",
+    "PG_PWD": "postgres",
+    "PG_HOST": "localhost",
+    "PG_PORT": 5443,
+    "MONGO_USER": "animesh",
+    "MONGO_PWD": "mongo123",
+    "MONGO_HOST": "localhost",
+    "MONGO_PORT": 8179,
+    "MONGO_PROCESSING_QUEUE": "processing_queue",
+    "MOVES_DB_NAME": "moves_tree",
+    "HOME_DIR": "/home/animesh/gtoinspectorproc/",
+    "UNPROCESSED_FILE_DIR": "/home/animesh/gtoinspectorproc/unprocessed_files",
+    "PROCESSED_FILE_DIR": "/home/animesh/gtoinspectorproc/processed_files"
+}
